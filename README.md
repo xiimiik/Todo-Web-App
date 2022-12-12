@@ -13,7 +13,7 @@ Storing, retrieving, adding, deleting and editing is done using the API.
 
 ## Tech Stack
 
-**Client:** React, JavaScript, Bulma, SCSS
+**Client:** React, JavaScript, Bulma, SCSS, work with API
 
 **Server:** Node, Express
 
